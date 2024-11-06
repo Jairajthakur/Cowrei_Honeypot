@@ -1,4 +1,4 @@
-# cowrie honeypot on alpine:latest
+cowrie honeypot on alpine:latest
 
-## It's small, fast and reliable cowrie honeypot on alpine made by Oulu University Secure Programming Group (OUSPG)
-## https://github.com/ouspg/honeypots
+It's small, fast and reliable cowrie honeypot on alpine made by Oulu University Secure Programming Group (OUSPG)
+https://github.com/ouspg/honeypots
